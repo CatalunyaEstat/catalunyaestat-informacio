@@ -1,0 +1,11 @@
+name: "Vegueria: Barcelona"
+description: "Informació de les poblacions de les Comarques: Baix Llobregat, Barcelonès, Maresme, Vallès Oriental i Vallès Occidental"
+title: "[Vegueria: Barcelona]: "
+labels: ["Vegueria: Barcelona"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

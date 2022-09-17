@@ -1,0 +1,11 @@
+name: "Vegueria: Girona"
+description: "Informació de les poblacions de les Comarques: Alt Empordà, Baix Empordà, Garrotxa, Gironès, Pla de l'Estany, Selva i Ripollès"
+title: "[Vegueria: Girona]: "
+labels: ["Vegueria: Girona"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

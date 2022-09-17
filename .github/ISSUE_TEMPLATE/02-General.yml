@@ -1,0 +1,11 @@
+name: Informació general
+description: Informació general sobre Catalunya no relacionada amb cap població local (per a població local anar a la corresponent vegueria)
+title: "[Informació general]: "
+labels: ["General"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

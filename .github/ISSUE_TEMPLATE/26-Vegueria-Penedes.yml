@@ -1,0 +1,11 @@
+name: "Vegueria: Penedès"
+description: "Informació de les poblacions de les Comarques: Alt Penedès, Anoia, Baix Penedès, Garraf"
+title: "[Vegueria: Penedès]: "
+labels: ["Vegueria: Penedès"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

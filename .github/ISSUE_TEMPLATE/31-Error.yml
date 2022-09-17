@@ -1,0 +1,11 @@
+name: Error o incompleta
+description: "Has trobat alguna informació errònia o incompleta? Informa'ns i ho arreglarem el mes ràpid possible."
+title: "[Errònia o incompleta]: "
+labels: ["Errònia o incompleta"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

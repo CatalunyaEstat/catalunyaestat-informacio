@@ -1,0 +1,11 @@
+name: "Vegueria: Terres de l'Ebre"
+description: "Informació de les poblacions de les Comarques: Baix Ebre, Montsià, Ribera d'Ebre i Terra Alta"
+title: "[Vegueria: Terres de l'Ebre]: "
+labels: ["Vegueria: Terres de l'Ebre"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

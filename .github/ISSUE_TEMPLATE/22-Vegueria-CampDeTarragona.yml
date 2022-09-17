@@ -1,0 +1,11 @@
+name: "Vegueria: Camp de Tarragona"
+description: "Informació de les poblacions de les Comarques: Tarragonès, Alt Camp, Baix Camp, Conca de Barberà i Priorat"
+title: "[Vegueria: Camp de Tarragona]: "
+labels: ["Vegueria: Camp de Tarragona"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

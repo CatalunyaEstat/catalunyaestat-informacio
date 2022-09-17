@@ -1,0 +1,11 @@
+name: "Vegueria: Central"
+description: "Informació de les poblacions de les Comarques: Bages, Berguedà, Moianès, Osona i Solsonès"
+title: "[Vegueria: Central]: "
+labels: ["Vegueria: Central"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

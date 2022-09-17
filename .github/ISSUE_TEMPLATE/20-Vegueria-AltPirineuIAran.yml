@@ -1,0 +1,11 @@
+name: "Vegueria: Alt Pirineu i Aran"
+description: "Informació de les poblacions de Vall d'Aran i Comarques: Alta Ribagorça, Alt Urgell, Cerdanya, Pallars Jussà i Pallars Sobirà"
+title: "[Vegueria: Alt Pirineu i Aran]: "
+labels: ["Vegueria: Alt Pirineu i Aran"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

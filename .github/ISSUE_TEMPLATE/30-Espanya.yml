@@ -1,0 +1,11 @@
+name: "Espanya"
+description: "Informació de tota la merda d'Espanya, repressió, incompliments, història, etc."
+title: "[Espanya]: "
+labels: ["Espanya"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

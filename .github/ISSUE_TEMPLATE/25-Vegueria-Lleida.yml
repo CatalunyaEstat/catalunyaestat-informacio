@@ -1,0 +1,11 @@
+name: "Vegueria: Lleida"
+description: "Informació de les poblacions de les Comarques: Garrigues, Noguera, Segarra, Segrià, Pla d'Urgell i Urgell"
+title: "[Vegueria: Lleida]: "
+labels: ["Vegueria: Lleida"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

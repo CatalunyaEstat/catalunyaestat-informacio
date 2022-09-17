@@ -1,0 +1,11 @@
+name: Catalunya Estat
+description: Informació i col·laboració per a la creació d'una candidatura unitària independentista, estudis, eines...
+title: "[CatalunyaEstat]: "
+labels: ["CatalunyaEstat"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true

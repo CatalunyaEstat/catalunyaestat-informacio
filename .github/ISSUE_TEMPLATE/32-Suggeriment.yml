@@ -1,0 +1,11 @@
+name: Suggeriment
+description: "Tens algun suggeriment sobre la web, informació o alguna altra cosa?"
+title: "[Suggeriment]: "
+labels: ["Suggeriment"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripció
+    validations:
+      required: true
